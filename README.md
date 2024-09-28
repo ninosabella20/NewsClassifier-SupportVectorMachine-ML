@@ -21,7 +21,7 @@ This project implements a Support Vector Machine (SVM) model for classifying new
 
 ### Evaluation
 1. **Performance Metrics**: The model was evaluated on the original test dataset, yielding the following results:
-   - **Accuracy**: 50%
+   - **Accuracy**: 51%
    - **Macro Average Precision**: 0.45
    - **Macro Average Recall**: 0.60
    - **Macro Average F1-Score**: 0.47
